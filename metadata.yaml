@@ -1,11 +1,14 @@
 _repo: Sissipaallikko-Kohtauksia-ranskalais-saksalaisesta-sodasta_53752
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Selim Mirza. Finnish
 contributor:
   translator:
     agent_name: Borg, Felix
     gutenberg_agent_id: '45701'
     url: http://www.gutenberg.org/2009/agents/45701
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sienkiewicz, Henryk
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1052
     wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53752#Sissipaallikko-Kohtauksia-ranskalais-saksalaisesta-sodasta
 gutenberg_issued: '2016-12-17'
 gutenberg_type: Text
 identifiers:
